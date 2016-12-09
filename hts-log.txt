@@ -1,0 +1,35 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sun, 13 Nov 2016 12:27:36 at http://jollythemes.com/html/builder/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://jollythemes.com/html/builder/ -O1 "C:\My Web Sites\builder" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:36:00	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/portfolio_02.jpg (from jollythemes.com/html/builder/)
+12:36:00	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/portfolio_06.jpg (from jollythemes.com/html/builder/)
+12:36:00	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/tab_03.png (from jollythemes.com/html/builder/)
+12:36:26	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/js/masonry.js (from jollythemes.com/html/builder/)
+12:36:26	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/fonts/glyphicons-halflings-regular.eot (from jollythemes.com/html/builder/css/bootstrap.min.css)
+12:36:28	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/fonts/glyphicons-halflings-regular.eot? (from jollythemes.com/html/builder/css/bootstrap.min.css)
+12:36:31	Warning: 	File not parsed, looks like binary: jollythemes.com/html/builder/fonts/glyphicons-halflings-regular.woff2
+12:36:31	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/fonts/fontawesome-webfont.woff?v=4.1.0 (from jollythemes.com/html/builder/css/font-awesome.css)
+12:36:32	Error: 	"Not Found" (404) at link www.jollythemes.com/html/builder/css/owl.video.play.png (from jollythemes.com/html/builder/css/owl-carousel.css)
+12:36:32	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/images/hr.png (from jollythemes.com/html/builder/style.css)
+12:36:33	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/rs-plugin/assets/arrowright.png (from jollythemes.com/html/builder/rs-plugin/css/settings.css)
+12:36:42	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/rs-plugin/assets/arrow_right2.png (from jollythemes.com/html/builder/rs-plugin/css/settings.css)
+12:36:42	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/service_08.png (from jollythemes.com/html/builder/services.html)
+12:37:11	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/shop_05.png (from jollythemes.com/html/builder/shop-single.html)
+12:37:11	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/widget_04.png (from jollythemes.com/html/builder/shop-single.html)
+12:37:11	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/single-shop.html (from jollythemes.com/html/builder/cart.html)
+12:37:13	Error: 	"Not Found" (404) at link www.jollythemes.com/html/builder/js/jigowatt.js (from jollythemes.com/html/builder/contant.html)
+12:37:13	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/single_portfolio_01.png (from jollythemes.com/html/builder/portfolio-single.html)
+12:37:14	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/demos/single_portfolio_02.png (from jollythemes.com/html/builder/portfolio-single.html)
+12:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/rs-plugin/assets/arrow_right2.png (from jollythemes.com/html/builder/rs-plugin/css/settings.css)
+12:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link jollythemes.com/html/builder/images/prettyPhoto/default/sprite.png (from jollythemes.com/html/builder/css/prettyPhoto.css)
+12:37:50	Warning: 	Moved Permanently for jollythemes.com/html/builder/single-shop.html
+12:37:50	Warning: 	Redirected link is identical because of 'URL Hack' option: jollythemes.com/html/builder/single-shop.html and www.jollythemes.com/html/builder/single-shop.html
+12:37:50	Warning: 	File has moved from jollythemes.com/html/builder/single-shop.html to http://www.jollythemes.com/html/builder/single-shop.html
+
+HTTrack Website Copier/3.48-22 mirror complete in 10 minutes 51 seconds : 230 links scanned, 208 files written (16126754 bytes overall) [14989424 bytes received at 23025 bytes/sec], 1525583 bytes transferred using HTTP compression in 37 files, ratio 18%, 3.3 requests per connection
+(2 errors, 22 warnings, 0 messages)
